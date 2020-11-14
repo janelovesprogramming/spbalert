@@ -26,4 +26,4 @@ setup(
     'Programming Language :: Python :: 3.6',
   ],
 )
-view rawsetup.py hosted with ❤ by GitHub
+# view rawsetup.py hosted with ❤ by GitHub
